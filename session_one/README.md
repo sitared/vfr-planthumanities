@@ -18,10 +18,6 @@ You can find the Tamarack narrative on the [Plant Humanities Lab](https://lab.pl
 
 You can find the plant narrative on the American larch, or *[Larix laricina](https://en.wikipedia.org/wiki/Larix_laricina)* on the [Plant Humanities Lab](https://lab.plant-humanities.org/)
 
-
-
-
-
 <param ve-image manifest="wc:Larix_sibirica_with_golden_foliage.jpg">
 caption="Caption: Tamarack tree needles turn a golden yellow in autumn.">
 
