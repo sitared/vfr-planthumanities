@@ -13,9 +13,6 @@ One Ojibwe legend tells of a lone chickadee who sought shelter under a Tamarack 
 
 >"If there is to be  multispecies ecojustice, which can also embrace diverse human people, it is high time that  feminists exercise leadership in imagination, theory, and action to unravel the ties of both  genealogy and kin, and kin and species."  
 
-You can find the Tamarack narrative on the [Plant Humanities Lab](https://lab.plant-humanities.org/)
-
-You can find the plant narrative on the American larch, or *[Larix laricina](https://en.wikipedia.org/wiki/Larix_laricina)* on the [Plant Humanities Lab](https://lab.plant-humanities.org/)
 
 
 
