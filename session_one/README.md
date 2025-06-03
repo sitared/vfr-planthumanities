@@ -8,7 +8,7 @@ author="Hannah Hardenbergh"
 layout="vertical">
 
 <param ve-image
-	   src="wc",https://commons.wikimedia.org/wiki/File:Larix_sibirica_with_golden_foliage.jpg
+	   src="wc",File:Larix_sibirica_with_golden_foliage.jpg
 	   caption="",Tamarack trees turn a golden yellow in autumn
 	   fit="contain">
 
