@@ -1,4 +1,5 @@
-<a href="https://www.juncture-digital.org"><img src="https://juncture-digital.github.io/juncture/static/images/ve-button.png"></a>
+<a href="https://www.juncture-digital.org"><img 
+src="https://juncture-digital.github.io/juncture/static/images/ve-button.png"></a>
 
 <param ve-config 
 title="What We Know Now: Tracing the Tamarack"    source-
@@ -16,7 +17,6 @@ layout="vertical">
 
 One Ojibwe legend tells of a lone chickadee who sought shelter under a Tamarack tree (Larix laricina) in winter. During a fierce storm, the chickadee was cold, trapped, and alone. Chickadee asked the Tamarack tree to lower its branches for warmth, but the tree refused. For this, the Great Spirit, Wenabozho, punished the Tamarack
 
->"If there is to be  multispecies ecojustice, which can also embrace diverse human people, it is high time that  feminists exercise leadership in imagination, theory, and action to unravel the ties of both  genealogy and kin, and kin and species."  
 
 
 
