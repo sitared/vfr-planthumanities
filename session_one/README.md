@@ -17,10 +17,10 @@ One Ojibwe legend tells of a lone chickadee who sought shelter under a Tamarack 
 
 Larches grow old, but not alone. Like most forest trees, the Larch is part of a network of living systems. Even though most live for about 200 years, and the European Larch has been reported to live as long as 2,000 years, almost all grow among other tree species. They often grow in pure stands and occasionally as an understory tree to other conifers. Insects and small mammals consume the tree’s bark and needles. Often, ospreys will choose to nest in its crown.
 <param ve-compare
-		src="wc:File:Larix_sibirica_-_Siperianlehtikuusi,_Sibirisk_lärk,_Siberian_larch_IMG_9213_C.JPG"
-		caption="Swipe across images to view the conditions of the European larch in the summer and winter"
+src="wc:File:Larix_sibirica_-_Siperianlehtikuusi,_Sibirisk_lärk,_Siberian_larch_IMG_9213_C.JPG"
+caption="Swipe across images to view the conditions of the European larch in the summer and winter"
 <param ve-compare
-		src="wc:File:Larix_decidua_Modrzew_europejski_2023-06-25_01.jpg"
+src="wc:File:Larix_decidua_Modrzew_europejski_2023-06-25_01.jpg"
 
 
 
