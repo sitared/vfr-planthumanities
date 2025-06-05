@@ -1,5 +1,8 @@
 
 <param ve-map
-	   center=8.91588,-77.06338"
-		zoom="16"
-		caption="This is the location of Dumbarton Oaks in Washington, D.C.">		
+	   center="38.887601,77.013634"
+		zoom="17"
+		caption="This is the location of US Botanic Garden">	
+		
+																			
+																			
